@@ -1,3 +1,4 @@
+#Autor: Keytel Pumaylle Ramirez
 import os
 import pyautogui
 from time import sleep
